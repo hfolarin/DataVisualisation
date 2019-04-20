@@ -1,2 +1,2 @@
 # DataVisualisation
-Testing concept about data visualisation  and theory
+Testing concept about data visualisation and theory in the key of major.
